@@ -1,0 +1,73 @@
+#logo{
+    float: right;
+}
+#topnav
+{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+}
+
+#topnav-asli{
+    color: gold;
+    margin-right: 5%;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1%;
+    text-decoration: none;
+}
+#topnav-sabad{
+    color: gold;
+    margin-right: 36%;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1%;
+    text-decoration: none;
+}
+#topnav-hesab{
+    color: gold;
+    margin-right: 5%;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1%;
+    text-decoration: none;
+}
+
+body{
+    
+    background-image: url("backgound.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    
+}
+#sec1{
+    float: right;
+    margin-top: 140px;
+    margin-right: 650px;
+}
+
+#matn1{
+    color: white;
+    direction: rtl;
+    font-size:x-large;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#btn-1{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    direction: rtl;
+    font-size:large;
+    font-weight: bold;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    margin-right: 0px;
+
+}
