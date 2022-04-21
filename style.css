@@ -10,7 +10,7 @@
 }
 
 #topnav-asli{
-    color: gold;
+    color: #E3EB00;
     margin-right: 5%;
     float: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,20 +18,34 @@
     text-decoration: none;
 }
 #topnav-sabad{
-    color: gold;
-    margin-right: 36%;
+    color: #E3EB00;
+    margin-right: 32%;
     float: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 1%;
     text-decoration: none;
 }
 #topnav-hesab{
-    color: gold;
+    color: #E3EB00;
     margin-right: 5%;
     float: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 1%;
     text-decoration: none;
+}
+
+#topnav-cart{
+    width: 20px;
+    margin-right: 10px;
+    float: right;
+    margin-top: 15px;
+}
+
+#topnav-account{
+    width: 16px;
+    margin-right: 10px;
+    float: right;
+    margin-top: 15px;
 }
 
 body{
@@ -68,6 +82,6 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 50px;
-    margin-right: 0px;
-
+    margin-left: 20px;
 }
+
